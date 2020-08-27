@@ -1,0 +1,44 @@
+{
+    "087500ad": {
+        "self": "SetViewedAlert",
+        "req": "SetViewedAlertReq",
+        "resp": {
+            "200": "SetViewedAlertResp"
+        }
+    },
+    "092bef7b": {
+        "self": "ConfirmRequest",
+        "req": "ConfirmRequestReq",
+        "resp": {
+            "200": "ConfirmRequestResp"
+        }
+    },
+    "0a33eefb": {
+        "self": "Cancel",
+        "req": "CancelReq",
+        "resp": {
+            "200": "CancelResp"
+        }
+    },
+    "0e21147e": {
+        "self": "EventListList",
+        "req": "EventListReq",
+        "resp": {
+            "200": "EventListResp"
+        }
+    },
+    "17a72174": {
+        "self": "QuoteList",
+        "req": "QuoteListReq",
+        "resp": {
+            "200": "QuoteListResp"
+        }
+    },
+    "1a0bb8bc": {
+        "self": "SetViewedEvent",
+        "req": "SetViewedEventReq",
+        "resp": {
+            "200": "SetViewedEventResp"
+        }
+    }
+}
